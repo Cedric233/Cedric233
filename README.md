@@ -1,6 +1,6 @@
 ###
 
-### Hi 👋 I'm Emmanuel 👨‍💻
+### Hi 👋 I'm Cédric 👨‍💻
 
 I'm a Sciences lover and Developer based in Limoges.
 My interests are mainly in software and programing environment.<br/>
@@ -12,7 +12,8 @@ I study at Institut informatique de Limoges (<a href="https://www.3il-ingenieurs
 
 | Deployed App | Repo | Technologies Used |
 |:-------------:|:-------------:|:----------|
-| <a href="https://github.com/Cedric233/Cedric233"><img src="https://github.com/Cedric233/Cedric233/blob/main/Tetris.gif" width="85%" /></a><br /><a href="https://github.com/Cedric233/Runner-Game">TETRIS 2D</a> | <a href="https://github.com/Cedric233/Runner-Game"><img src="https://cdn.iconscout.com/icon/free/png-256/github-153-675523.png" alt="" width="24px" /></a> | <a href="https://java.com">Java</a>, Slick2D |
+| <a href="https://github.com/Cedric233/Cedric233"><img src="https://github.com/Cedric233/Cedric233/blob/main/.gif" width="85%" /></a><br /><a href="https://github.com/Cedric233/Runner-Game">Runner Game</a> 
+| <a href="https://github.com/Cedric233/Runner-Game"><img src="https://cdn.iconscout.com/icon/free/png-256/github-153-675523.png" alt="" width="24px" /></a> | <a href="https://java.com">Java</a>, Slick2D |
 <!--
 
 Here are some ideas to get you started:
