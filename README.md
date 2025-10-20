@@ -19,4 +19,4 @@ I study at Institut informatique de Limoges (<a href="https://www.3il-ingenieurs
 
  
 
-[![Linkedin: Emmanuel Tatieze](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thomasdunn891/)](https://www.linkedin.com/in/emmanuel-tatieze-b9449921b/)
+[![Linkedin: Cedric Nguemaleu](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thomasdunn891/)](https://www.linkedin.com/in/cedric-nguemaleu/)
